@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10490" started-at="2021-09-26T17:56:35Z" finished-at="2021-09-26T17:56:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10490" started-at="2021-09-26T17:56:35Z" finished-at="2021-09-26T17:56:46Z">
+      <class name="testNGConcept.LoginTest">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:testNGConcept.LoginTest@68c4039c]" name="readConfig" is-config="true" duration-ms="27" started-at="2021-09-26T17:56:35Z" finished-at="2021-09-26T17:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testNGConcept.LoginTest@68c4039c]" name="init" is-config="true" duration-ms="5257" started-at="2021-09-26T17:56:35Z" finished-at="2021-09-26T17:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomerTest()[pri:2, instance:testNGConcept.LoginTest@68c4039c]" name="addCustomerTest" duration-ms="5151" started-at="2021-09-26T17:56:40Z" finished-at="2021-09-26T17:56:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+      </class> <!-- testNGConcept.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
